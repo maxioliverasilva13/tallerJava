@@ -4,7 +4,7 @@
  */
 package mygym;
 
-import mygym.pages.Dashboard;
+import mygym.presentacion.pages.Dashboard;
 
 /**
  *
